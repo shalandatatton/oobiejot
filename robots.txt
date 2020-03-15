@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haixaizoh.samnewton.net/sitemap.xml
